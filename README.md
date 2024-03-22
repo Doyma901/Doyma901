@@ -6,8 +6,11 @@ I'm Doyma Otolo, a junior cloud engineer passionate about leveraging technology 
 I'm currently sharpening my cloud engineering skills and exploring various cloud platforms, such as AWS and Azure. I'm also working on projects that involve deploying and managing cloud-native applications, automating infrastructure provisioning, and optimizing cloud resources for cost-effectiveness.
 
 🌱 My Skills:
+
 ✅ Python: I have hands-on experience in developing Python applications.
+
 ✅ JavaScript: I'm familiar with JavaScript and its libraries and frameworks, such as Node.js and React, enabling me to build dynamic and interactive web applications.
+
 ✅ HTML/CSS: I have a solid foundation in HTML and CSS, allowing me to create well-structured and visually appealing web pages.
 
 💡 My Interests:
