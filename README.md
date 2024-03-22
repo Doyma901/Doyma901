@@ -1,6 +1,8 @@
 👋 Hello, fellow developers!
 
-I'm Doyma Otolo, a junior cloud engineer passionate about leveraging technology to build scalable and efficient solutions. Welcome to my GitHub profile!
+I'm Doyma Otolo, a junior cloud engineer passionate about leveraging technology to build scalable and efficient solutions. 
+
+Welcome to my GitHub profile!
 
 **🔭** What I'm Currently Working On:
 
